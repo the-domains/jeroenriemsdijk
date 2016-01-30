@@ -1,6 +1,6 @@
 name: jeroenriemsdijk
 favicon: null
-layout_spectrum: 0.7732606793288141
+layout_spectrum: 0.87928
 typography_spectrum: 0.949939637677744
 title: Homepage
 cta:
@@ -24,6 +24,6 @@ color:
     - '#160600'
   brandStrength: 0.3945339173078537
   lightness: 0.5344008207321167
-  saturation: 0.07897610915824771
+  saturation: 0.25
   rhythmicContrast: 0.06245228671468794
 purpose: []
